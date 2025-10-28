@@ -20,7 +20,7 @@ const app = express();
 
 const allowedOrigins = [
   "http://localhost:5173",
-  "https://paisable.netlify.app",
+ "https://moneytrail-frontend.onrender.com",
 ];
 
 app.use(cors({
