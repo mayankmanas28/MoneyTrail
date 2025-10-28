@@ -20,7 +20,7 @@ const app = express();
 
 const allowedOrigins = [
   "http://localhost:5173",
- "https://moneytrail-frontend.onrender.com",
+ "https://moneytrail-1.onrender.com",
 ];
 
 app.use(cors({
