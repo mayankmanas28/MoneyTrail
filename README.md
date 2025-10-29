@@ -13,8 +13,8 @@ Finance Track is a **full-stack personal finance management app** built with **R
 
 ## Deployment Links
 
-* Frontend: [Netlify](https://paisable.netlify.app/)
-* Backend: [Render](https://paisable.onrender.com)
+* Frontend: [Render](https://moneytrail-1.onrender.com)
+* Backend: [Render](https://moneytrail-79y6.onrender.com)
 
 ## Tech Stack
 
@@ -35,6 +35,10 @@ Finance Track is a **full-stack personal finance management app** built with **R
 
 **Hosting:**
 
-* Frontend → Netlify
+* Frontend → Render
 * Backend → Render
 * Database → MongoDB Atlas
+
+**Website Live Link:**:
+https://moneytrail-1.onrender.com
+  
